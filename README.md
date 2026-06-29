@@ -36,12 +36,12 @@ This project classifies emails as Spam or Not Spam using Machine Learning and Na
 
 
 📂 Dataset:
+* The project uses an email dataset containing labeled spam and non-spam emails.## Dataset
 
+The original dataset (`phishing_email.csv`) is not included in this repository because it exceeds GitHub's 100 MB file size limit.
 
-
-* The project uses an email dataset containing labeled spam and non-spam emails.
-
-
+Dataset Source:
+https://www.kaggle.com/
 
 📊 Results:
 
